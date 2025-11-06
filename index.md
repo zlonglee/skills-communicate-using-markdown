@@ -7,3 +7,6 @@ This is just to edit my file with headers
 Now there should be a image depicted above.
 
 
+```
+Var = "Hello world!"
+```
